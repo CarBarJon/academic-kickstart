@@ -25,6 +25,11 @@ interests:
 - Bioinformatics
 - Science Communication
 
+education:
+  courses:
+  - course: B.Sc. (Genomic Sciences)
+    institution: Universidad Nacional Autónoma de México
+    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
